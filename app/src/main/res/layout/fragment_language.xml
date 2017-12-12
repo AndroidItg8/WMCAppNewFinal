@@ -1,0 +1,84 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:layout_margin="10dp"
+    tools:context="itg8.com.wmcapp.language.LanguageFragment">
+
+    <RadioGroup
+        android:id="@+id/rg_language"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp">
+
+        <RadioButton
+            android:id="@+id/rgb_english"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@drawable/rgb_selector"
+            android:checked="true"
+            android:gravity="center"
+            android:layout_gravity="center"
+
+            android:text="English" />
+
+        <View
+            android:id="@+id/view"
+            android:layout_width="match_parent"
+            android:layout_height="2px"
+            android:layout_margin="10dp"
+            android:background="@color/colorGrayLight" />
+
+        <RadioButton
+            android:id="@+id/rgb_hindi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@drawable/rgb_selector"
+            android:gravity="center"
+            android:layout_gravity="center"
+
+            android:text="हिंदी" />
+
+        <View
+            android:id="@+id/view1"
+            android:layout_width="match_parent"
+            android:layout_height="2px"
+            android:layout_margin="10dp"
+            android:background="@color/colorGrayLight" />
+
+        <RadioButton
+            android:id="@+id/rgb_marathi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@drawable/rgb_selector"
+            android:gravity="center"
+            android:layout_gravity="center"
+
+            android:text="मराठी" />
+
+        <View
+            android:id="@+id/view2"
+            android:layout_width="match_parent"
+            android:layout_height="2px"
+            android:layout_margin="10dp"
+            android:visibility="gone"
+            android:background="@color/colorGrayLight" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btn_dismiss"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rg_language"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="18dp"
+        android:layout_marginEnd="18dp"
+        android:background="@color/colorPrimary"
+        android:text="@string/dismiss"
+        android:textColor="@color/colorWhite" />
+</RelativeLayout>

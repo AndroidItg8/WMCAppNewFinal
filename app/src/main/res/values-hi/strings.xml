@@ -1,0 +1,82 @@
+<resources>
+    <!--<string name="app_name">WMC</string>-->
+    <!--<string name="title_home">Home</string>-->
+    <!--<string name="title_dashboard">Dashboard</string>-->
+    <!--<string name="title_notifications">Notifications</string>-->
+    <!--<string name="no_location_data_provided">No Location Found</string>-->
+    <!--<string name="no_address_found">No Location Found</string>-->
+    <!--<string name="address_found">Address found</string>-->
+    <!--<string name="service_not_available">No play service available</string>-->
+    <!--<string name="invalid_lat_long_used">Invalid key</string>-->
+
+    <!--<string name="hello_blank_fragment">Hello blank fragment</string>-->
+    <!--<string name="imgadd">imgAdd</string>-->
+    <!--<string name="enter_description">Enter Description</string>-->
+    <!--<string name="other_address">Address</string>-->
+    <!--<string name="rationale_no_permission">Please grant permission to further proceed.</string>-->
+    <!--<string name="rationale_call_permission">Please provide call permission</string>-->
+    <!--<string name="current_location">वर्तमान स्थान</string>-->
+    <!--<string name="other_location">अन्य पता</string>-->
+    <!--<string name="show_identity">पहचान दिखाएँ</string>-->
+    <!--<string name="hide_identity">पहचान छिपाएं</string>-->
+
+    <!---->
+        
+    <string name="app_name"> WMC </string>
+        
+    <string name="title_home"> होम </string>
+        
+    <string name="title_dashboard"> डैशबोर्ड </string>
+        
+    <string name="title_notifications"> सूचनाएं </string>
+        
+    <string name="no_location_data_provided"> कोई स्थान नहीं मिला </string>
+        
+    <string name="no_address_found"> ​​कोई स्थान नहीं मिला </string>
+        
+    <string name="address_found"> ​​पता मिला </string>
+        
+    <string name="service_not_available"> कोई सेवा उपलब्ध नहीं है </string>
+        
+    <string name="invalid_lat_long_used"> अमान्य कुंजी </string>
+
+        
+    <string name="hello_blank_fragment"> खाली खाली टुकड़ा </string>
+        
+    <string name="imgadd"> imgAdd </string>
+        
+    <string name="enter_description"> विवरण दर्ज करें </string>
+        
+    <string name="other_address"> पता </string>
+        
+    <string name="rationale_no_permission"> कृपया आगे बढ़ने की अनुमति दें। </string>
+        
+    <string name="rationale_call_permission"> कृपया कॉल अनुमति प्रदान करें </string>
+        
+    <string name="current_location"> वर्तमान स्थान </string>
+        
+    <string name="other_location"> अन्य स्थान </string>
+        
+    <string name="show_identity"> पहचान दिखाएँ </string>
+        
+    <string name="hide_identity"> पहचान छुपाएं </string>
+    <string name="contact_us">हमसे संपर्क करें</string>
+    <string name="dismiss">खारिज</string>
+    <string name="profile">्रोफ़ाइल</string>
+    <string name="complaint_status">शिकायत स्थिति</string>
+    <string name="vote">समर्थन</string>
+    <string name="no_internet_title">कोई इंटरनेट कनेक्शन नहीं!!!</string>
+    <string name="message_dialogue">आप कब जानकारी भेजना चाहते हैं?</string>
+    <string name="immediately">तुरंत ही</string>
+    <string name="later">बाद में</string>
+    <string name="other">अन्य</string>
+
+
+
+
+
+
+
+
+
+</resources>
